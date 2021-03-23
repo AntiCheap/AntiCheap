@@ -1,4 +1,4 @@
-I'm currently wasting my time on [protodef-rs](/Anticheap/protodef-rs)
+I'm currently wasting my time on [protodef-rs](./Anticheap/protodef-rs)
 
 <!--
 **AntiCheap/AntiCheap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
